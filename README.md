@@ -6,4 +6,4 @@
 
 ##Credit goes to UNC Chapel Hill Coding BootCamp and https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide.
 
-![Horiseon](Homework1/assets/images/Screenshot.png)
+![Horiseon](.\assets\images\Screenshot.png)
